@@ -1,6 +1,6 @@
 This repository contains two projects where I have recreated the home pages of Amazon and Netflix using HTML and CSS. These projects serve as practice and showcase my ability to structure and style web pages accurately.
 
-Project Highlights
+Project Highlights:
 1.Amazon Home Page Clone.....
     *Objective: To replicate the layout and design of the Amazon home page.
     *Technologies Used: HTML and CSS.
